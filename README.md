@@ -1,2 +1,2 @@
-# Ayesha-cybersecurity-portfoli
-My cybersecurity portfolio PDF and projects
+# Ayesha-cybersecurity-portfolio
+Cybersecurity portfolio showcasing hands-on projects, forensics, and threat analysis.
